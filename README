@@ -1,1 +1,4 @@
-https://docs.google.com/document/d/1JupG-gAfYNgN98uVE7MetOsTZA08nQKzl1Ar4ljE2PE/mobilebasic
+Model: Bert
+https://huggingface.co/docs/transformers/model_doc/bert
+Dataset: EXAMS
+https://huggingface.co/datasets/exams
