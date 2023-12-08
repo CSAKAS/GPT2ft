@@ -1,4 +1,3 @@
-Model: Bert
-https://huggingface.co/docs/transformers/model_doc/bert
-Dataset: EXAMS
-https://huggingface.co/datasets/exams
+Model: gpt2
+Dataset: arXiv-10
+Sequecne Classification
